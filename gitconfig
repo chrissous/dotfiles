@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = c2cheffontaines@gmail.com
+	name = christophe de cheffontaines
